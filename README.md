@@ -6,11 +6,29 @@ I work with complex data from systems such as **MES, WMS, and PDKS**, and focus 
 
 🌱 I’m continuously improving my skills in **data analysis, data visualization, and business intelligence**, while expanding toward **Python and advanced analytics**.
 
-🔭 My project experience includes:
-- MES–WMS Backflush & Material Traceability Analysis  
-- Production Quality Reporting (PY / FPY, Repair & Fault Analysis)  
-- Warehouse Stock & BOM Alternative Material Analysis  
-- Machine, Line, and Process Performance Dashboards  
+## 📂 Projects
+
+- **MES–WMS Backflush & Material Traceability**  
+  Material consumption analysis by comparing MES production data with WMS warehouse outputs using SQL & Power BI.
+
+- **Production Quality Analysis (PY / FPY, Repair & Faults)**  
+  Daily quality and performance monitoring for SMT and FATP lines with SQL-based data modeling and Power BI dashboards.
+
+- **Warehouse Stock Tracking & Inventory Analysis**  
+  Real-time stock level and inventory movement tracking using SQL and Power BI.
+
+- **Machine Fault & Error Performance Analysis**  
+  Machine-level fault analysis to identify recurring issues and performance bottlenecks.
+
+- **Repair Process & Current Repair Tracking**  
+  Monitoring ongoing and completed repair processes to improve repair visibility and control.
+
+- **BOM & Alternative Material Analysis**  
+  Analysis of BOM structures and alternative materials to support production flexibility.
+
+- **Workforce Attendance & Availability Analysis (PDKS)**  
+  Daily workforce availability and attendance reporting for production planning.
+
 
 💡 I enjoy transforming raw production data into **clear, decision-supporting reports** that improve visibility, efficiency, and quality across operations.
 
