@@ -43,6 +43,6 @@ I work with complex data from systems such as **MES, WMS, and PDKS**, and focus 
 Email: **nilayozel2001@gmail.com**
 
 🔗 **Connect with me**  
-LinkedIn: **Nilay Özel**
+LinkedIn: **https://www.linkedin.com/in/nilay-%C3%B6zel-2927a7210/**
 
 Always curious, always learning, and motivated to grow as a data professional 🚀
